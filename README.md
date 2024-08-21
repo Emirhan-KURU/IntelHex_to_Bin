@@ -12,7 +12,7 @@ $ gcc -o IntelHextoBin IntelHEX_to_bin.c
 Daha sonra oluşan .o dosyası 2 parametreyle çalıştırılır.
 
 ```bash
-$ ./IntelHextoBin GOREV_1_RTC_CLOCK.hex output.bin 
+$ ./IntelHextoBin example.hex output.bin 
 acildi
 Hex Dosyasi Bin dosyasina Cevrildi !
 ```
