@@ -2,7 +2,7 @@
 
 Program IntelHex formatındaki dosyayı .Bin dosyasına çevirerek kaydeder.
 
-## Kullanmım
+## Kullanım
 
 İlk önce .c dosyası derlenir.
 
