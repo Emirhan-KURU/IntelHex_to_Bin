@@ -4,7 +4,8 @@ Program IntelHex formatındaki dosyayı .Bin dosyasına çevirerek kaydeder.
 
 ## Asciinema
 
-https://asciinema.org/a/DlxgERwFdLkRPSzM5ugNzfX8k
+[![asciicast](https://asciinema.org/a/DlxgERwFdLkRPSzM5ugNzfX8k)](https://asciinema.org/a/DlxgERwFdLkRPSzM5ugNzfX8k)
+
 
 ## Kullanım
 
