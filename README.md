@@ -2,6 +2,10 @@
 
 Program IntelHex formatındaki dosyayı .Bin dosyasına çevirerek kaydeder.
 
+## Asciinema
+
+https://asciinema.org/a/DlxgERwFdLkRPSzM5ugNzfX8k
+
 ## Kullanım
 
 İlk önce .c dosyası derlenir.
