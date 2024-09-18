@@ -2,9 +2,10 @@
 
 Program IntelHex formatındaki dosyayı .Bin dosyasına çevirerek kaydeder.
 
-## Asciinema
+## Asciinema 
 
-[![asciicast](https://asciinema.org/a/DlxgERwFdLkRPSzM5ugNzfX8k)](https://asciinema.org/a/DlxgERwFdLkRPSzM5ugNzfX8k)
+<script id="asciicast-embed" src="https://asciinema.org/a/DlxgERwFdLkRPSzM5ugNzfX8k" async></script>
+
 
 
 ## Kullanım
